@@ -104,3 +104,9 @@ Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de
  else:
      print(f'O núemro {num} é IMPAR!')   
  ```
+
+## Emojis
+
+Olá. Pequeno Garfanhoto :vulcan_salute:
+
+`:<nomeDoEmoji>:`
