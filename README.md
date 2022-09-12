@@ -99,9 +99,9 @@ Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de
  ```
  num = int(input('Digite um valor: ').strip())
  
- if num == 5:
-     print('Você escolheu o número 5!')
+ if num % 2 == 0:
+     print(f'O número {num} é PAR!')
  else:
-     print('Você não escolheu o número 5!')
+     print(f'O núemro {num} é IMPAR!')
  
  ```
