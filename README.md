@@ -80,3 +80,28 @@ Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de
 
 - #### Meu perfil no [GitHub](github.com/henrique-sc)
 
+## Tabelas
+
+ Num | Nome     | Nota
+ --- | ---      | --- 
+ 1   | Gustavo  | 8.9
+ 2   | Henrique | 10
+ 3   |  -       | -
+ 3   | Maiara   | 7.5
+ 
+ ## Trecho de código
+ 
+ Para que serve o comando `documento.getElementById('<id>')` do JavaScript?
+ 
+ ---
+ 
+ Olha o meu programa em Python:
+ ```
+ num = int(input('Digite um valor: ').strip())
+ 
+ if num == 5:
+     print('Você escolheu o número 5!')
+ else:
+     print('Você não escolheu o número 5!')
+ 
+ ```
