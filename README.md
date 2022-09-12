@@ -21,8 +21,8 @@ Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de
 
 ## Negrito
 
-* Usando **asterisco**
-* Usando __underline__
+* Usando **asterisco** "*"
+* Usando __underline__ "_"
 
 ## Itálico
 
@@ -38,7 +38,7 @@ Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de
 1. Item 1
 2. Item 2
    1. Subitem 1
-   2. Subitem 2
+      1. Subsubitem 1
 3. Item 3
 
 ## Listas não ordenadas
@@ -46,13 +46,37 @@ Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de
 * Item 1
 * Item 2
    * Subitem 1
-   * Subitem 2
+      * Subsubitem 1
 * Item 3
+
+*Obs: pode usar asterisco e hífen*
 
 ## Linha horizontal
 
 * Usando três asteriscos:
-***
+ ***
 
 * Usando três hífen:
 ---
+  
+### Misturar configuração
+
+1. **_abacate_**
+2. __*abacate*__
+3. **_~~abacate~~_**
+
+## Lista de tarefas
+
+- [x] Banco de dados
+- [ ] HTML
+- [ ] CSS
+- [ ] PHP
+
+## Imagens
+
+![Assinatura](https://user-images.githubusercontent.com/96785101/179827835-a254c481-8ebc-4cfe-9edb-8f0785012b26.png)
+
+## Links 
+
+- #### Meu perfil no [GitHub](github.com/henrique-sc)
+
