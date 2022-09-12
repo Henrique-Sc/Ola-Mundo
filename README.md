@@ -102,6 +102,5 @@ Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de
  if num % 2 == 0:
      print(f'O número {num} é PAR!')
  else:
-     print(f'O núemro {num} é IMPAR!')
- 
+     print(f'O núemro {num} é IMPAR!')   
  ```
