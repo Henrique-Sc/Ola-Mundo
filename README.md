@@ -110,3 +110,7 @@ Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de
 Olá. Pequeno Garfanhoto :vulcan_salute:
 
 `:<nomeDoEmoji>:`
+
+*Obs: os códigos de emojis não funciona no título das Issues. Apenas funciona os emojis em texto `😊`
+
+*Site com todos os emojis: [Emojipedia](https://emojipedia.org/)
