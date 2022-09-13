@@ -111,6 +111,23 @@ Olá. Pequeno Garfanhoto :vulcan_salute:
 
 `:<nomeDoEmoji>:`
 
-*Obs: os códigos de emojis não funciona no título das Issues. Apenas funciona os emojis em texto `😊`
+*Obs: os códigos de emojis não funciona no título das Issues. Apenas funciona os emojis em texto `😊`*
 
-*Site com todos os emojis: [Emojipedia](https://emojipedia.org/)
+*Site com todos os emojis: [Emojipedia](https://emojipedia.org/)*
+
+## Citações
+
+Marcar alguém no GitHub:
+* Como dizia o `@<perfilDoGitHub`
+
+*Obs: só funcina em Issues*
+
+Citar algum texto:
+> Texto texto
+
+`> Texto texto`
+
+
+---
+
+__*[ Guia Markdown do Curso em Vídeo](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)*__
